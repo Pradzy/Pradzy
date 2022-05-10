@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pradzy
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning basics.
-- 💞️ I’m looking to collaborate on whatever can i do.
+- 
 -
 
 <!---
